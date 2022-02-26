@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Bungee+Inline&family=Fredericka+the+Great&display=swap');
+
+h1 {
+    font-family: 'Bungee Inline', cursive;
+    font-family: 'Fredericka the Great', cursive;
+    font-weight: bold;
+    color: black;
+}
