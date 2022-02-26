@@ -4,5 +4,7 @@ h1 {
     font-family: 'Bungee Inline', cursive;
     font-family: 'Fredericka the Great', cursive;
     font-weight: bold;
-    color: black;
+    background: linear-gradient(to right, rgb(224, 37, 4) 0%, rgb(224, 37, 4) 40%, rgb(229, 255, 0) 60%, rgb(229, 255, 0) 100%);
+    background-clip: text;
+    color: transparent;
 }
